@@ -2,7 +2,6 @@ var fs = require('fs')
   , http = require('http')
   , nconf = require('nconf')
   , express = require('express')
-  , jayson = require('jayson')
   , bitcoin = require('bitcoin')
   ;
 
